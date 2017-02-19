@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BioSpaceInvaders", "BioSpaceInvaders.csproj", "{8546981F-8F3F-E695-38C7-331B2D86D303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BioSpaceInvaders.Editor", "BioSpaceInvaders.Editor.csproj", "{C62E88F0-68E7-8190-1EA1-359D5AEC5D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8546981F-8F3F-E695-38C7-331B2D86D303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8546981F-8F3F-E695-38C7-331B2D86D303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8546981F-8F3F-E695-38C7-331B2D86D303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8546981F-8F3F-E695-38C7-331B2D86D303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62E88F0-68E7-8190-1EA1-359D5AEC5D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62E88F0-68E7-8190-1EA1-359D5AEC5D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62E88F0-68E7-8190-1EA1-359D5AEC5D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62E88F0-68E7-8190-1EA1-359D5AEC5D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
